@@ -6,7 +6,7 @@ public class DemoMaven {
 	
 	@Test
 	public void test() {
-		System.out.println("Maven Test");
+		System.out.println("Maven Test, Git Update");
 	}
 
 }
